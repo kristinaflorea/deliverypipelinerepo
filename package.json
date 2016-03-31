@@ -8,9 +8,9 @@
         "http-proxy": "^1.8.1",
         "cf-deployment-tracker-client": "*"
     },
-    "main": "server.js",
+    "main": "app.js",
     "scripts": {
-        "start": "node server.js"
+        "start": "node app.js"
     },
     "repository": {
         "type": "git",
